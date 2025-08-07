@@ -51,7 +51,6 @@ It dynamically renders questions, handles answer selection, and calculates the s
   <a href="https://github.com/anuj-singal" target="_blank">
     <img src="https://avatars.githubusercontent.com/anuj-singal" width="100" style="border-radius: 50%;"/><br/>
     <strong>Anuj Singal</strong><br/>
-    <code>github.com/anuj-singal</code>
   </a>
 </div>
 
